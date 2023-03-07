@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentOne", "PaymentOne\PaymentOne.csproj", "{55DF6F3C-3E4B-4EA1-B1D7-679D2E9F3798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DF6F3C-3E4B-4EA1-B1D7-679D2E9F3798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DF6F3C-3E4B-4EA1-B1D7-679D2E9F3798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DF6F3C-3E4B-4EA1-B1D7-679D2E9F3798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DF6F3C-3E4B-4EA1-B1D7-679D2E9F3798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858CF9B2-5FC0-47A2-85A2-4DDD231DA579}
+	EndGlobalSection
+EndGlobal
